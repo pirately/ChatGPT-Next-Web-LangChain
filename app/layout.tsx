@@ -11,7 +11,7 @@ const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
   title: "Sinoma",
-  description: "中材国际知识库.",
+  description: "中材国际.",
   viewport: {
     width: "device-width",
     initialScale: 1,
